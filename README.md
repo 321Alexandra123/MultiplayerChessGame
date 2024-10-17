@@ -1,6 +1,6 @@
 # Multiplayer Chess Game with Cards
 ## Overview
-This project is a multiplayer chess game built using Android Studio (Java). Alongside standard chess moves, players have access to special abilities through cards that can be activated if they have enough mana.
+This project is a multiplayer chess game built using Android Studio (Java) and Firebase. Alongside standard chess moves, players have access to special abilities through cards that can be activated if they have enough mana.
 
 ## Features
 * Multiplayer Gameplay: Play chess against friends online or by creating a room with a room number
